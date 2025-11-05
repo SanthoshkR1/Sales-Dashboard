@@ -1,13 +1,14 @@
 # Sales-Dashboard
-1. Project Title 
+1. Project Title:
+
 Super Store Sales & Forecasting Dashboard
 A dynamic, interactive dashboard for analyzing and forecasting sales performance—featuring multi-dimensional insights by region, segment, category and city. Built to empower data-driven decision-making for business performance and strategy.
 
-2. Purpose
+2. Purpose:
 This Power BI report provides a comprehensive business performance analysis of super store sales.
 It visualizes historical trends and predicts future sales using robust forecasting models, helping stakeholders monitor KPIs, identify opportunities and optimize strategies.
 
-3. Tech Stack
+3. Tech Stack:
 The dashboard was built using the following tools and technologies:
 
 📊 Power BI Desktop – Main platform for creating visual analytics and interactive dashboards.
@@ -16,11 +17,11 @@ The dashboard was built using the following tools and technologies:
 📝 Data Modeling – Creating relationships for seamless cross-filtering and aggregation.
 📁 File Format – .pbix for development, .png/.jpg for dashboard screenshots, .csv for datasets.
 
-4. Data Source
+4. Data Source:
 Source: Public superstore sales data, including orders, categories, sub-categories, city, state, region, quantity, sales, profit, segment, payment mode and delivery information.
 Structured to allow time-series, categorical and geographic analysis.
 
-5. Features / Highlights
+5. Features
 Business Problem:
 Retailers often struggle to track and forecast sales performance by customer segment, region, or product—making it difficult to optimize campaigns and inventory.
 
