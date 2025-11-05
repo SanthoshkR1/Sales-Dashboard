@@ -1,6 +1,5 @@
 # Sales-Dashboard
 1. Project Title:
-
 Super Store Sales & Forecasting Dashboard
 A dynamic, interactive dashboard for analyzing and forecasting sales performance—featuring multi-dimensional insights by region, segment, category and city. Built to empower data-driven decision-making for business performance and strategy.
 
